@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'maverickjamesdb' );
 
 /** Database username */
-define( 'DB_USER', 'jading' );
+define( 'DB_USER', 'jadong' );
 
 /** Database password */
-define( 'DB_PASSWORD', '4uYsh01~5' );
+define( 'DB_PASSWORD', 'psalm231' );
 
 /** Database hostname */
-define( 'DB_HOST', '127.0.0.1:3306' );
+define( 'DB_HOST', '127.0.0.1:8889' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );

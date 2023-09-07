@@ -11,6 +11,7 @@ module.exports = {
         './safelist.txt'
     ],
     theme: {
+       
         container: {
             padding: {
                 DEFAULT: '1rem',
@@ -32,6 +33,8 @@ module.exports = {
         }
     },
     plugins: [
-        tailpress.tailwind
+        tailpress.tailwind,
+
+        require('tailwindcss-animated')
     ]
 };

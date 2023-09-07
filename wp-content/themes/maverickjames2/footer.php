@@ -7,10 +7,10 @@
 
 <?php do_action( 'tailpress_content_after' ); ?>
 
-<footer id="colophon" class="site-footer  bg-gray-800 py-12" role="contentinfo">
+<footer id="colophon" class="site-footer bg-zinc-300 dark:bg-zinc-900 py-12" role="contentinfo">
 	<?php do_action( 'tailpress_footer' ); ?>
 
-	<div class="container mx-auto text-center bg-gray-800 text-gray-400">
+	<div class="container mx-auto text-center bg-zinc-300 dark:bg-zinc-900 text-zinc-900 dark:text-zinc-500">
 		&copy; <?php echo date_i18n( 'Y' );?> - Maverick James Project Management LLC
 	</div>
 </footer>
